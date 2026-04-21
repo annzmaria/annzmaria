@@ -16,7 +16,7 @@
 ### 👋 About Me
 I am a dedicated **Backend Web Developer** with **over 4 years** of professional experience in engineering scalable modern architectures. My expertise lies in delivering robust web systems, designing high-performance backends, and implementing secure API integrations for enterprise-level applications.
 
-- 📍 Based in **Sharjah, UAE**
+- 📍 Based in **Dubai, UAE**
 - 🔭 Currently focusing on **Enterprise-level PHP Architectures**
 - 🌱 Learning **Advanced Cloud Architectures & DevOps**
 - 💬 Ask me about **PHP, API Intergations, and Database Optimization**
